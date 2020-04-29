@@ -1,4 +1,4 @@
-**Github Finder
+## Github Finder
 
 Github Finder is app for search users profile in github by github api.
 
